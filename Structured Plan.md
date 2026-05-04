@@ -1,4 +1,4 @@
-# SYS-208 Project Plan: Temperature-Controlled Fan System
+# SYS-208 Project Plan: Temperature-Controlled Fan System for Server Rack
 
 **Study Group:** Pass & Win  
 **Platform:** Tinkercad (Simulation-Based)
