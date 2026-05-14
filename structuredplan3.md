@@ -20,4 +20,31 @@ To ensure technical accuracy and meeting the tight deadline, the group adopted a
 
 ## 🛠️ Functional Work-Split
 
-### **Stage 1: The Design Blueprint
+### **Stage 1: The Design Blueprint (Pass)**
+*Target: Theoretical Correctness (4/10 marks per question)*
+* **Tasks:** Solve for $R$, $C$, and Op-amp configurations.
+* **Questions:** 1 through 9.
+* **Output:** A design specification sheet (values and formulas) sent to Win.
+
+### **Stage 2: The Simulation Bench (Win)**
+*Target: Simulation Results (2/10 marks per question)*
+* **Tasks:** Use Pass's specs to build circuits; verify they produce the desired waveforms.
+* **Questions:** 1 through 9.
+* **Output:** High-quality PNGs of schematics and scope traces sent to Pass.
+
+### **Stage 3: The Write-up & Reflection (Pass)**
+*Target: Explanation & Reflection (3/10 marks per question)*
+* **Tasks:** Synthesize the math and the simulation results into the final report text.
+* **Output:** Final PDF draft.
+
+---
+
+## 🏁 Quality & Compliance Sync (Final 15 Mins)
+
+To comply with the rule: *"Every student is expected to understand the full submitted solution,"* the following sync-up must occur before submission:
+
+1. **The Math Check:** Pass explains the gain/cutoff logic of the most complex circuits (Q7, Q8, Q9) to Win.
+2. **The Waveform Check:** Win explains how to read the Falstad scopes and any adjustments made to Pass.
+3. **The Final Read:** Both members read the final PDF once to ensure names and IDs are correct.
+
+**⚠️ FINAL ACTION:** Both Pass and Win must individually upload the **identical** final PDF to the portal.
